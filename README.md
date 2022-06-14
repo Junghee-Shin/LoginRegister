@@ -29,7 +29,7 @@ Server : Apache Tomcat
 
 
 ### Login Failed
-<img src="https://github.com/Junghee-Shin/LoginRegister/blob/master/img/login%20success.png" width="30%" height="30%"/>
+<img src="https://github.com/Junghee-Shin/LoginRegister/blob/master/img/login%20failed.png" width="30%" height="30%"/>
 
 
 
@@ -44,11 +44,6 @@ Server : Apache Tomcat
 
 
 ### Join Success
-<img src="https://github.com/Junghee-Shin/LoginRegister/blob/master/img/join%20success.png" width="30%" height="30%"/>
-
-
-
-### Join Failed
 <img src="https://github.com/Junghee-Shin/LoginRegister/blob/master/img/join%20success.png" width="30%" height="30%"/>
 
 
