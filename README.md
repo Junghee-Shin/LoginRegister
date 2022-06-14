@@ -49,6 +49,6 @@ Server : Apache Tomcat
 
 
 ### data in DB
-<img src="https://github.com/Junghee-Shin/LoginRegister/blob/master/img/inserted%20data.PNG" width="50%" height="50%"/>
+<img src="https://github.com/Junghee-Shin/LoginRegister/blob/master/img/inserted%20data.PNG" width="70%" height="70%"/>
 
 
